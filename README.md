@@ -21,7 +21,7 @@ redistributed through this repository.
 ## Software
 
 Analyses were conducted in R. Required packages include:
-`LTRCtrees`, `survival`, `glmnet`, `risksetROC`, `mice`, ...
+`LTRCforests`, `pcoxtime', `partykit', `survival`, `risksetROC`, `mice`, ...
 
 ## Reproducibility
 

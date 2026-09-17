@@ -10,7 +10,7 @@ This repository contains the core R code accompanying the manuscript
 - `train_forest.R`: estimation of the LTRC-CIF model
 - `eval_TVAUC.R`: incident/dynamic time-dependent AUC
 - `eval_BS_TV.R`: time-dependent Brier Scores and Integrated Brier Scores
-- the folder `functions' contains helper functions to run train the models and evaluate them
+- the folder `functions` contains helper functions for running the simulations, training the models and evaluating model performance
 
 ## Data
 
